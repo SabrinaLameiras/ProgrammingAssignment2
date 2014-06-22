@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ## 2. cacheSolve calculate inverse matrix of object and set it to object
 ## Obs: if inverse matrix has been calculated previously, this function
 ##      just show it.
-## Obs2: this function are using library MASS, from Brian Ripley et al.
+## Obs2: this function are using library MASS (function ginv above), from Brian Ripley et al.
 ##       see cran's page http://cran.r-project.org/web/packages/MASS/index.html
 ##       so, make sure you already installed and loaded this library
 ## Using: cacheSolve(obj)
