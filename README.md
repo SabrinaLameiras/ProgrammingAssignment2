@@ -1,3 +1,18 @@
+### Student`s observations:
+I wrote codes in cachematrix.R file. 
+To calculate inverse of matrix, I had used an aditional package MASS
+usefull to compute inverse of non-square`s matrices.
+So, if I are going to try my code, please, install cran's package MASS (install.packages("MASS"))
+and load this library (library(MASS)), previously.
+
+Above, follow exercise's original instructions.
+
+Best regards,
+
+Diogenes Justo
+
+-------------------------------------------------------------
+
 ### Introduction
 
 This second programming assignment will require you to write an R
